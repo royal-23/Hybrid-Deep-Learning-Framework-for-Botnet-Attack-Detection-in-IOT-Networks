@@ -192,3 +192,10 @@ Future Scope
 License
 
 This project is developed for academic and educational purposes as part of the Bachelor of Technology (Cyber Security) curriculum
+
+---
+
+Note:
+Large trained model files (hybrid_model.pkl and random_forest_model-evo-intel.pkl) are excluded from the repository due to GitHub file size limitations. The source code, training pipeline, and model architecture are included.
+
+---
