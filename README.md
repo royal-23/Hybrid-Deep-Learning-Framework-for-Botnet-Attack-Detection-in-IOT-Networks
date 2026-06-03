@@ -191,4 +191,4 @@ Future Scope
 
 License
 
-This project is developed for academic and educational purposes as part of the Bachelor of Technology (Cyber Security) curric
+This project is developed for academic and educational purposes as part of the Bachelor of Technology (Cyber Security) curriculum
